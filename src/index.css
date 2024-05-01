@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  padding: 15px;
+  background-color: #eaffe9;
+}
+
+h1 {
+  color: rgb(0, 255, 85);
+  text-align: center;
+  text-shadow: 1px 1px 1px rgb(74, 74, 255);
+  margin-bottom: 10px;
+}

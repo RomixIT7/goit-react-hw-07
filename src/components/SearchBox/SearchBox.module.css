@@ -1,0 +1,24 @@
+.searchLabel {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 20px auto;
+  font-size: 18px;
+  color: #060076;
+  text-align: center;
+}
+
+.searchLabel:hover > .searchInput {
+  background-color: #afbaff;
+}
+
+.searchInput {
+  height: 45px;
+  border: 3px solid rgb(0, 0, 139);
+  border-radius: 10px;
+  outline: none;
+  padding: 8px 16px;
+  background-color: #e3fdff;
+  color: rgb(0, 0, 163);
+  font-size: 18px;
+}
